@@ -2,7 +2,7 @@
 
 ## Application Content
 
--HomeViewController
+- HomeViewController
 
 ## Installation
 
