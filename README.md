@@ -6,7 +6,7 @@
 
 Used https://www.reddit.com/r/flutterdev/top.json?count=20 API.
 
-Reddit posts listed.
+Reddit posts were listed.
 
 ## Installation
 
